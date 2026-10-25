@@ -1,0 +1,8 @@
+[MD013]
+line-length = 80
+code-blocks = false
+
+# Markdown image syntax cannot set a width, so the profile images are inline
+# HTML.
+[MD033]
+allowed-elements = ["p", "img"]
